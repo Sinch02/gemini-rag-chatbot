@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+python-docx
+pdfminer.six
+unstructured[all-docs]
+pytesseract
+pillow
+python-dotenv
+huggingface-hub
+sentence-transformers
+faiss-cpu
+google-generativeai
+gradio
